@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Titulo Aula explicativa
 
 ## Descrição
@@ -29,4 +30,6 @@ pip install box add
 ````
 
 
+=======
+>>>>>>> 6146075d1a1f1fa2a265f86fb23d38709ed9135a
 
